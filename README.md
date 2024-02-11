@@ -17,7 +17,7 @@ To get started with this boilerplate, follow these steps:
 
 1.  Clone the repository to your local machine:
    	```ruby
-	git clone https://github.com/your-username/express-typescript-boilerplate.
+	git clone https://github.com/sukronsabari/simple-express-ts-boilerplate.git
 	```
 2.  Navigate to the project directory:
    	```ruby
