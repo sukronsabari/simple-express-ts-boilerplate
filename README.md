@@ -15,41 +15,40 @@ Before you begin, ensure you have met the following requirements:
 ## Getting Started
 To get started with this boilerplate, follow these steps:
 
-1.  Navigate to the project directory:
-        
-    ```
-      cd express-typescript-boilerplate
-    ```
-    
-3.  Install dependencies:
-    
-    ```
+1.  Clone the repository to your local machine:
+   	```ruby
+	git clone https://github.com/your-username/express-typescript-boilerplate.
+	```
+2.  Navigate to the project directory:
+   	```ruby
+	cd express-typescript-boilerplate
+	```
+3. Install dependencies:
+   ```ruby
     npm install
     ``` 
     
     or
     
-    ```
+    ```ruby
     yarn
     ``` 
-    
-5.  Start the development server:
-    
-    ```
+4. Start the development server:
+     ```ruby
     npm run start:dev
     ``` 
     
     or
     
-    ```
+    ```ruby
     yarn start:dev
     ``` 
     
-7.  Open your browser and navigate to `http://localhost:5000` to see the server running.
+5.  Open your browser and navigate to `http://localhost:5000` to see the server running.
 
 
 ## Directory Structure
-```
+```bash
 express-typescript-boilerplate/
 │
 ├── src/                     # Source files
